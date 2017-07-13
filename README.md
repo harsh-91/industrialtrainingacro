@@ -1,0 +1,2 @@
+# industrialtrainingacro
+training scripts
