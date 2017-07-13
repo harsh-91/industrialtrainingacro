@@ -1,0 +1,3 @@
+i love numpy
+python is great.
+i don't like java
